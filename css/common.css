@@ -1,0 +1,14 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	background: white;
+	color: #555;
+	font-family: 'Avenir Next','Lantinghei SC';
+	font-size: 14px;
+	-webkit-font-smoothing:antialiased;
+	-moz-font-smoothing:antialiased;
+	-o-font-smoothing:antialiased;
+}
