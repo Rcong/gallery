@@ -1,2 +1,2 @@
 # gallery
-gallery demo
+[gallery demo](https://rcong.github.io/gallery)
